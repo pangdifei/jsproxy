@@ -27,11 +27,11 @@ jsproxy_config({
     },
     'cfworker': {
       label: 'Cloudflare Worker',
-      hidden: true,
+//      hidden: true,
       lines: [
         // 实验中...
         // 参考 https://github.com/EtherDream/jsproxy/tree/master/cf-worker
-        'ba.workers.dev'
+        'summer-sound-de8c.ba.workers.dev'
       ]
     }
   },
