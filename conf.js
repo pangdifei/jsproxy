@@ -31,7 +31,7 @@ jsproxy_config({
       lines: [
         // 实验中...
         // 参考 https://github.com/EtherDream/jsproxy/tree/master/cf-worker
-        'node-cfworker.etherdream.com:8443'
+        'ba.workers.dev'
       ]
     }
   },
